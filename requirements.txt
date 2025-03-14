@@ -1,0 +1,8 @@
+streamlit
+requests
+beautifulsoup4
+pandas
+numpy
+azure-ai-ml
+azure-identity
+python-dotenv
