@@ -968,7 +968,7 @@ def process_research(
     status_text = st.empty()
     
     with progress_container.container():
-        st.subheader("Research Progress")
+        st.subheader("Research Progresss")
         progress_bar = st.progress(0)
     
     # Step 1: Planning research (15%)
